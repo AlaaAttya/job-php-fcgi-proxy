@@ -1,0 +1,11 @@
+{
+    "name": "alaaattya/job-php-fcgi-proxy",
+    "description": "RabbitMQ PHP FastCGI proxy",
+    "authors": [
+        {
+            "name": "AlaaAttya",
+            "email": "alaa.attya91@gmail.com"
+        }
+    ],
+    "require": {}
+}
